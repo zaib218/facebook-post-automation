@@ -1,0 +1,8 @@
+[
+  {
+    "email": "your_email@example.com",
+    "password": "your_password",
+    "session_file": "sessions/akun1.json",
+    "2fa_secret": "YOUR_BASE32_2FA_SECRET"
+  }
+]

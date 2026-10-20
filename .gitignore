@@ -49,6 +49,9 @@ __pycache__/
 # Mengabaikan file cookie/sesi akun
 akun*.json
 session*.json
+accounts.json
+sessions/
+posted_groups.txt
 
 # Mengabaikan folder profil browser
 facebook_profile_data/
